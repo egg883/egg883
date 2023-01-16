@@ -37,6 +37,6 @@
 
 <center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=egg883&column=8&theme=discord&no-frame=true&no-bg=true"/>
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=cosy&column=8&theme=discord&no-frame=true&no-bg=true"/>
   </a>
 </center>
