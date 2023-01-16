@@ -17,6 +17,12 @@
 ### Hi there, my name is Egg883👋
 #### I'm a 18 years old programmer from The United Kingdom.</br> I started programming in January 2020, I code sometimes My main language is [python](https://python.org).
 
+<h2><strong> Discord -->  </strong></h2>
+<a href="https://discord.com/users/184841558661529600"><img align="left" src="https://lanyard.cnrad.dev/api/184841558661529600"></a>
+
+
+
+
 
 <h2><strong> Languages -->  </strong></h2>
 
