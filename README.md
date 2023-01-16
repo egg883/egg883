@@ -23,8 +23,6 @@
 
 <h2><strong> Languages -->  </strong></h2>
 
-
-
 <img src="https://cdn.discordapp.com/attachments/974332459577639013/979757795412947014/unknown.png" alt="Python" width="100" height="100"/>
 
 
