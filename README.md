@@ -20,9 +20,6 @@
 <h2><strong> Discord -->  </strong></h2>
 <a href="https://discord.com/users/830527702854402068"><img align="left" src="https://lanyard.cnrad.dev/api/830527702854402068"></a>
 
-<h2><strong> Languages -->  </strong></h2>
-
-<img src="https://cdn.discordapp.com/attachments/974332459577639013/979757795412947014/unknown.png" alt="Python" width="100" height="100"/>
 
 
  <h2><strong> Analytics -->  </strong></h2>
