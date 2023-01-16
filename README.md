@@ -33,7 +33,7 @@
 </a>
 </p>
 
-![egg883's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egg883&theme=monokai)
+![egg883's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosy&theme=monokai)
 
 <center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
