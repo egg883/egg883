@@ -1,5 +1,5 @@
-### Hi there, my name is Mathieu👋
-#### I'm a 18 years old programmer from unitedkingdom.</br> I started programming in january 2020 and My main language is [python](https://python.org).
+### Hi there, my name is egg883
+#### I'm a 18 years old programmer from United Kingdom.</br> I started programming in january 2020 and My main language is [python](https://python.org).
 
 <p align="center">
   <a href="https://discord.com/users/184841558661529600" target="_blank">
