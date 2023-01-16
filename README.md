@@ -24,8 +24,8 @@
 
 <img src="https://cdn.discordapp.com/attachments/974332459577639013/979757795412947014/unknown.png" alt="Python" width="100" height="100"/>
 
- <h2><strong> Analytics -->  </strong></h2>
-
+ <h2><strong> Analytics   |  </strong></h2>
+                          v
 <p align="left">
 <a href="https://github.com/egg883">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=egg883&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
