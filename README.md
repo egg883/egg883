@@ -1,27 +1,36 @@
-### Hi there, my name is egg883
-#### I'm a 18 years old programmer from United Kingdom.</br> I started programming in january 2020 and My main language is [python](https://python.org).
-
-- 😄 Pronouns: `he`/`him`
-- 🔭 I’m currently working on: [discord.py-message-components](https://github.com/mccoderpy/discord.py-message-components) and [instatus.py](https://github.com/instatus-py/instatus.py)
-
-- 📫 How to reach me: 
-  
-  - Send me a Direct Message on [Discord](https://discord.com): [`egg883#6666`](https://discord.com/users/184841558661529600)
-
-### Spotify
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=w83sbk7kl09oxtiwkcaqvpqut&cover_image=true&theme=novatorem&bar_color=4e5eb1&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=w83sbk7kl09oxtiwkcaqvpqut&redirect=true)
-
-### 🏆 GitHub Profile Trophy:
-<center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=egg883&column=8&theme=discord&no-frame=true&no-bg=true"/>
+<h1 align="left">
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif" width="24px" style="max-width:100%;">
   </a>
-</center>
-
-
-### 📊 GitHub Stats:
-![Mccoders Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egg883&theme=monokai)
-
-<p align="center" >
-     <img src="https://komarev.com/ghpvc/?username=egg883&style=flat" alt=mccoderpy>
+  egg883
+  <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif"  width="24px" style="max-width:100%;">
+    <p align="left">  
+  <img src="https://komarev.com/ghpvc/?username=egg883" alt="egg883" />
+  <img alt="Followers" src="https://img.shields.io/github/followers/cotra1337?style=social">    
 </p>
+<p align="left">  
+ </p>
+  </a>
+</h1>
+
+
+<h2><strong> Languages -->  </strong></h2>
+
+
+
+<img src="https://cdn.discordapp.com/attachments/974332459577639013/979757795412947014/unknown.png" alt="Python" width="100" height="100"/>
+
+
+ <h2><strong> Analytics -->  </strong></h2>
+
+<p align="left">
+<a href="https://github.com/egg883">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cotra1337&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egg883&layout=compact&langs_count=7&theme=midnight-purple"/>
+</a>
+</p>
+
+
+<h2><strong> Discord -->  </strong></h2>
+<a href="https://discord.com/users/184841558661529600"><img align="left" src="https://lanyard.cnrad.dev/api/184841558661529600"></a>
