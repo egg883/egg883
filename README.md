@@ -1,26 +1,18 @@
 ### Hi there, my name is Mathieu👋
-#### I'm a 18 years old programmer from Germany.</br> I started programming in February 2021 and have not lost the fun of it. My main language is [python](https://python.org).
+#### I'm a 18 years old programmer from unitedkingdom.</br> I started programming in january 2020 and My main language is [python](https://python.org).
 
 <p align="center">
-  <a href="https://discord.com/users/693088765333471284" target="_blank">
+  <a href="https://discord.com/users/184841558661529600" target="_blank">
     <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Send me a DM on Discord">
   </a>
-  <a href="https://www.instagram.com/mccoderpy/" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-EC3B83?style=for-the-badge&logo=instagram&logoColor=white" alt="Send me a DM on Instagram">
-  </a>
-  <a href="https://guilded.gg/u/mccoder-py" target="_blank">
-    <img src="https://img.shields.io/badge/-Guilded-F5C400?style=for-the-badge&logo=guilded&logoColor=white" alt="Send me a DM on Guilded.
-PS: Discord still better 😜 Guilded is just a copy with more features 🙃">
   </a>
 </p>
 
 <!--
-​![​status​](https://dev.discordprofiles.me/badge/status/693088765333471284) 
-​![​playing​](https://dev.discordprofiles.me/badge/playing/693088765333471284) 
-​![​PyCharm​](https://dev.discordprofiles.me/badge/pycharm/693088765333471284) 
-[![​spotify​](https://dev.discordprofiles.me/badge/spotify/693088765333471284)](https://dev.discordprofiles.me/openspotify/693088765333471284)
-
-**mccoderpy/mccoderpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+​![​status​](https://dev.discordprofiles.me/badge/status/184841558661529600) 
+​![​playing​](https://dev.discordprofiles.me/badge/playing/184841558661529600) 
+​![​PyCharm​](https://dev.discordprofiles.me/badge/pycharm/184841558661529600) 
+[![​spotify​](https://dev.discordprofiles.me/badge/spotify/184841558661529600)](https://dev.discordprofiles.me/openspotify/184841558661529600)
 
 Here are some ideas to get you started:
 
