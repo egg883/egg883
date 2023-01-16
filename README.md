@@ -7,7 +7,7 @@
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Earth.gif"  width="24px" style="max-width:100%;">
     <p align="left">  
   <img src="https://komarev.com/ghpvc/?username=egg883" alt="egg883" />
-  <img alt="Followers" src="https://img.shields.io/github/followers/cotra1337?style=social">    
+  <img alt="Followers" src="https://img.shields.io/github/followers/egg883?style=social">    
 </p>
 <p align="left">  
  </p>
