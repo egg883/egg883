@@ -26,7 +26,7 @@
 
 <p align="left">
 <a href="https://github.com/egg883">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cotra1337&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=egg883&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egg883&layout=compact&langs_count=7&theme=midnight-purple"/>
 </a>
 </p>
