@@ -33,7 +33,11 @@
 
 ![egg883's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egg883&theme=monokai)
 
-
+<center>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=egg883&column=8&theme=discord&no-frame=true&no-bg=true"/>
+  </a>
+</center>
 
 <h2><strong> Discord -->  </strong></h2>
 <a href="https://discord.com/users/184841558661529600"><img align="left" src="https://lanyard.cnrad.dev/api/184841558661529600"></a>
