@@ -14,6 +14,9 @@
   </a>
 </h1>
 
+### Hi there, my name is Egg883👋
+#### I'm a 18 years old programmer from The United Kingdom.</br> I started programming in January 2020, I code sometimes My main language is [python](https://python.org).
+
 
 <h2><strong> Languages -->  </strong></h2>
 
