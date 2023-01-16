@@ -33,10 +33,10 @@
 </a>
 </p>
 
-![egg883's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cosy&theme=monokai)
+![egg883's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egg883&theme=monokai)
 
 <center>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img width=800 src="https://github-profile-trophy.vercel.app/?username=cosy&column=8&theme=discord&no-frame=true&no-bg=true"/>
+    <img width=800 src="https://github-profile-trophy.vercel.app/?username=egg883&column=8&theme=discord&no-frame=true&no-bg=true"/>
   </a>
 </center>
