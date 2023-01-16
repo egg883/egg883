@@ -31,11 +31,7 @@
 </a>
 </p>
 
-![egg883's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mccoderpy&theme=monokai)
-
-<p align="center" >
-     <img src="https://komarev.com/ghpvc/?username=egg883&style=flat" alt=egg883>
-</p>
+![egg883's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=egg883&theme=monokai)
 
 
 
