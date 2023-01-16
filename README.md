@@ -31,6 +31,13 @@
 </a>
 </p>
 
+![egg883's Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mccoderpy&theme=monokai)
+
+<p align="center" >
+     <img src="https://komarev.com/ghpvc/?username=egg883&style=flat" alt=egg883>
+</p>
+
+
 
 <h2><strong> Discord -->  </strong></h2>
 <a href="https://discord.com/users/184841558661529600"><img align="left" src="https://lanyard.cnrad.dev/api/184841558661529600"></a>
