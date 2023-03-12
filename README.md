@@ -18,7 +18,7 @@
 #### I'm a 18 years old programmer from The United Kingdom.</br> I started programming in January 2020, I code sometimes My main language is [python](https://python.org).
 
 <h2><strong> Discord -->  </strong></h2>
-<a href="https://discord.com/users/184841558661529600"><img align="left" src="https://lanyard.cnrad.dev/api/184841558661529600"a>
+<img width="50%" src="https://lanyard-profile-readme.vercel.app/api/184841558661529600" />
 
 <h2><strong> Languages -->  </strong></h2>
 
@@ -40,3 +40,10 @@
     <img width=800 src="https://github-profile-trophy.vercel.app/?username=egg883&column=8&theme=discord&no-frame=true&no-bg=true"/>
   </a>
 </center>
+
+# 🖥️ Specs
+- CPU: AMD Ryzen 7 5700X 8 Core Processor
+- GPU: Geforce RTX 2060
+- RAM: 16GB DDR4 
+- Storage: 1TB SSD 860 QVO + 1TB HDD
+- Mother Board: MSI GAMING PLUS MAX
