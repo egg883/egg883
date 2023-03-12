@@ -14,7 +14,7 @@
   </a>
 </h1>
 
-### Hi there, my name is Egg883👋
+### Hi there, my name is Egg883 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="24px" style="max-width:100%;">
 #### I'm a 18 years old programmer from The United Kingdom.</br> I started programming in January 2020, I code sometimes My main language is [python](https://python.org).
 
 <h2><strong> Discord -->  </strong></h2>
