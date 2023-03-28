@@ -46,4 +46,4 @@
 - GPU: Geforce RTX 2060
 - RAM: 16GB DDR4 
 - Storage: 1TB SSD 860 QVO + 1TB HDD
-- Mother Board: MSI GAMING PLUS MAX
+- Mother Board: MSI B450 GAMING PLUS MAX
