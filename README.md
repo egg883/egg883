@@ -44,6 +44,6 @@
 # 🖥️ Specs
 - CPU: AMD Ryzen 7 5700X 8 Core Processor
 - GPU: Geforce RTX 3060 (12GB)
-- RAM: 32GB DDR4 3600MHz
+- RAM: 32GB DDR4 (3600MHz)
 - Storage: 1TB SSD 860 QVO + 1TB HDD
 - Mother Board: MSI B450 GAMING PLUS MAX
