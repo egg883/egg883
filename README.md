@@ -18,7 +18,7 @@
 #### I'm a 19 years old programmer from The United Kingdom.</br> I started programming in January 2020, I code sometimes My main language is [python](https://python.org).
 
 <h2><strong> Discord -->  </strong></h2>
-<img width="50%" src="https://lanyard-profile-readme.vercel.app/api/184841558661529600" />
+<img width="50%" src=(https://lanyard.cnrad.dev/api/281476115397345280)](https://discord.com/users/281476115397345280) />
 
 <h2><strong> Languages -->  </strong></h2>
 
