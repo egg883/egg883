@@ -46,4 +46,4 @@
 - GPU: Geforce RTX 3060 (12GB)
 - RAM: 32GB DDR4 (3600MHz)
 - Storage: 1TB SSD 860 QVO + 1TB HDD
-- Mother Board: MSI b550 Tomahawk
+- Mother Board: MSI B550 TOMAHAWK
