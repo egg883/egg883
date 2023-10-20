@@ -17,9 +17,6 @@
 ### Hi there, my name is Egg883 <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="24px" style="max-width:100%;">
 #### I'm a 19 years old programmer from The United Kingdom.</br> I started programming in January 2020, I code sometimes My main language is [python](https://python.org).
 
-<h2><strong> Discord -->  </strong></h2>
-<img width="50%" src=https://lanyard.cnrad.dev/api/281476115397345280 />
-
 <h2><strong> Languages -->  </strong></h2>
 
 <img src="https://cdn.discordapp.com/attachments/974332459577639013/979757795412947014/unknown.png" alt="Python" width="100" height="100"/>
