@@ -19,7 +19,7 @@
 
 <h2><strong> Languages -->  </strong></h2>
 
-<img src="https://cdn.discordapp.com/attachments/974332459577639013/979757795412947014/unknown.png" alt="Python" width="100" height="100"/>
+<img src="https://cdn.discordapp.com/attachments/974332459577639013/979757795412947014/unknown.png?ex=66305bcd&is=662f0a4d&hm=1641d2b917354cccb0305c01cdd2185086eb2a40a81d2b55ebeba65f7c1bb6b0&" alt="Python" width="100" height="100"/>
 
  <h2><strong> Analytics  --> </strong></h2>
                           
